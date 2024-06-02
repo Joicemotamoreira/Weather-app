@@ -70,22 +70,22 @@ header {
   font-weight: normal;
   font-family: "Poppins";
   color: #bb624f;
+  display: flex;
 }
 
 .weather-app-icon {
-  position: relative;
-  top: -10px;
-  font-size: 35px;
+  width: 88px;
+  height: 88px;
 }
 
 .weather-app-temperature {
-  font-size: 65px;
+  font-size: 88px;
+  line-height: 88px;
 }
 
 .weather-app-unit {
+  margin-top: 2px;
   font-size: 28px;
-  position: relative;
-  top: -30px;
 }
 
 footer {
