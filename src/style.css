@@ -69,7 +69,6 @@ header {
   line-height: 20px;
   font-size: 16px;
 }
-
 .weather-app-details strong {
   color: #f4a19a;
 }
@@ -126,7 +125,7 @@ header {
   margin: 0 auto;
 }
 .weather-forecast-temperature-min {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 .weather-forecast-temperature {
   font-size: 13;
