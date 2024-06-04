@@ -99,10 +99,14 @@ header {
   background-color: #fce4de;
   padding: 20px;
   border-radius: 8px;
+  justify-content: center;
 }
 .weather-forecast-date {
   font-size: 16px;
   font-weight: bold;
+}
+.weather-forecast-icon {
+  justify-content: center;
 }
 .weather-forecast-temperature-min {
   opacity: 0.8;
